@@ -8,6 +8,9 @@
             "runtime": "node-17.0",
             "path": "functions/My Awesome Function",
             "entrypoint": "src/index.js",
+            "vars": {
+                "GIPHY_API_KEY": "dc6zaTOxFJmzC"
+            },
             "execute": [],
             "events": [],
             "schedule": "",
