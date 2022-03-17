@@ -1,0 +1,17 @@
+{
+    "projectId": "623079a1253a2aade727",
+    "projectName": "project x",
+    "functions": [
+        {
+            "$id": "622faeed1b144523171f",
+            "name": "My Awesome Function",
+            "runtime": "node-17.0",
+            "path": "functions/My Awesome Function",
+            "entrypoint": "src/index.js",
+            "execute": [],
+            "events": [],
+            "schedule": "",
+            "timeout": 15
+        }
+    ]
+}
