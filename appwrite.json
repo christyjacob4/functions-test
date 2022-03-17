@@ -12,7 +12,10 @@
                 "GIPHY_API_KEY": "dc6zaTOxFJmzC"
             },
             "execute": [],
-            "events": [],
+            "events": [
+                "account.create",
+                "account.update.name"
+            ],
             "schedule": "",
             "timeout": 15
         }
